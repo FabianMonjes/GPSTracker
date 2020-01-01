@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Transporte</string>
+    <string name="icon_ma">icon_ma</string>
+    <string name="textview_ma">Servicio de Transporte</string>
+    <string name="btn_ma">NFC</string>
+    <string name="title_activity_inicio">Servicio de Transporte</string>
+    <string name="minicio_item1">Seguir Ruta</string>
+    <string name="minicio_item2">Imprimir Reporte</string>
+    <string name="minicio_item3">Mi Perfil</string>
+    <string name="mperfil_item1">Imprimir Reporte</string>
+    <string name="mperfil_ImageViewDescription">Tudu</string>
+    <string name="mperfil_txView1">Nombre</string>
+    <string name="mperfil_txView2">Apellidos</string>
+    <string name="mperfil_txView3">Ingreso</string>
+    <string name="title_activity_s_ruta">Seguir Ruta</string>
+    <string name="title_activity_l_ruta">Map</string>
+</resources>

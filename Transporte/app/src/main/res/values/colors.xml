@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        ROJO : #E93E47
+        AZUL : #1969b2
+    -->
+    <color name="colorPrimary">#1969B2</color>
+    <color name="colorPrimaryDark">#003f82</color>
+    <color name="colorAccent">#5c96e4</color>
+</resources>
+

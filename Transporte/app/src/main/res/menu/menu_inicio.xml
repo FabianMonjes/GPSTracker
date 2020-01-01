@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mFollow"
+        android:title="@string/minicio_item1" />
+    <item
+        android:id="@+id/mProfile"
+        android:title="@string/minicio_item3"
+        android:visible="true" />
+</menu>
